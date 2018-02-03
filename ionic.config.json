@@ -1,0 +1,8 @@
+{
+  "name": "organic-meal-prep",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
